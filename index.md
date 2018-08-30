@@ -1,5 +1,4 @@
 # Hugh Bromund's first CS193 Lab
-## Welcome to GitHub Pages
 
 ### Favorite things about Purdue CS:
 1. The Lab's are really well put together and fun to complete
