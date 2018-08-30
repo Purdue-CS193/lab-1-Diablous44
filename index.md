@@ -3,7 +3,7 @@
 ### Favorite things about Purdue CS:
 - The Lab's are really well put together and fun to complete
 - All the TA's and Teacher's are excited about the content
-- The Computer Labs are pretty cool
+- The Computer Labs are Pretty cool
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
