@@ -1,6 +1,11 @@
 # Hugh Bromund's first CS193 Lab
 ## Welcome to GitHub Pages
 
+### Favorite things about Purdue CS:
+1. The Lab's are really well put together and fun to complete
+2. All the TA's and Teacher's are excited about the content
+3. The Computer Labs are pretty cool
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
